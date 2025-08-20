@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   </br>
   </br>
   <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-%23000000.svg?&style=for-the-badge&logo=mac&logoColor=white" />
+  <img src="https://img.shields.io/badge/mac-%23000000.svg?&style=for-the-badge&logo=macOS&logoColor=white" />
   </div>
    
     
