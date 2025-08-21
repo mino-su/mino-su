@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **mino-su/mino-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me💡 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me✨ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 뜨개질과 커피와 코딩을 좋아하는 사람 </div> 
     </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 명지대학교 정보통신공학과 졸업 </div> 
